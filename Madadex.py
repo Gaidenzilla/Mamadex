@@ -4,7 +4,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
-df=pd.read_csv('datasets/Mamada.csv',index_col=False)
+df=pd.read_csv('Mamada.csv',index_col=False)
 df=pd.DataFrame(df)
 
 df.reset_index(inplace=True)
