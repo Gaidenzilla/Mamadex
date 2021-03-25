@@ -63,7 +63,6 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytz==2021.1
-pywin32==300
 pywinpty==0.5.7
 pyzmq==22.0.3
 requests==2.25.1
@@ -72,7 +71,6 @@ Send2Trash==1.5.0
 six==1.15.0
 smmap==3.0.5
 streamlit==0.77.0
-streamlit-folium==0.2.0
 terminado==0.9.2
 testpath==0.4.4
 toml==0.10.2
@@ -85,5 +83,4 @@ validators==0.18.2
 watchdog==2.0.2
 wcwidth==0.2.5
 webencodings==0.5.1
-widgetsnbextension==3.5.1
 zope.interface==5.2.0
